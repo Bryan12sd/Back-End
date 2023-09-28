@@ -1,0 +1,24 @@
+[
+    {
+        "id":"001",
+        "name":"Jessica Roman",
+        "email":"jroman@email.com",
+        "phone":"+593995770947",
+        "password":"123456789"
+    },
+    {
+        "id":"002",
+        "name":"Bryan Cordero",
+        "email":"bcordero@email.com",
+        "phone":"+593995694557",
+        "password":"12345"
+    },
+    {
+        "id":"003",
+        "name":"Germain Cordero",
+        "email":"gcordero@email.com",
+        "phone":"+593995694557",
+        "password":"123456"
+        
+    }
+]
